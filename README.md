@@ -1,2 +1,2 @@
 # exercicios-algoritmos
- Exercícios de algoritmos com minhas soluções
+ Exercícios de algoritmos em pseudocode com minhas soluções
